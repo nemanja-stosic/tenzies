@@ -1,5 +1,5 @@
 # Tenzies
 
-Tenzies game created using React.
+Tenzies game was created using React.
 
-Live link: https://tenzies-game-v2.netlify.app/
+# Live link: https://tenzies-game-v2.netlify.app/
